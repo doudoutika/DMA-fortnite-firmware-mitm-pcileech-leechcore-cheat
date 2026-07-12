@@ -1,2 +1,4 @@
 <img width="1280" height="637" alt="photo_2026-07-10_13-27-18" src="https://github.com/user-attachments/assets/9464ca92-e5c9-4d2b-98ca-fe6014032b86" />
 This product works through the host computer's network adapter and does not require a DMA board. It requires the network adapter on your primary PC to be based on the Realtek 8125, Intel I225, or Intel I226 chipset. A PCIe network adapter can also be used, and the Intel I226 is recommended for the best compatibility. It supports Easy Anti-Cheat (EAC), Apex Legends, Fortnite, Rust, VALORANT, and many other games. Secure Boot and HVCI (Memory Integrity) can both remain enabled.
+discord 
+https://discord.gg/hwU37VR782
