@@ -4,3 +4,4 @@ discord
 https://discord.gg/hwU37VR782
 <img width="1254" height="1254" alt="9998214943121968-da312e14-f73a-4251-9b02-891010bc429c-image_task_01KYET9W2YKFEAC7PV7SYWA1TN" src="https://github.com/user-attachments/assets/79644d37-5e57-4d7c-b6ee-fccec80c0812" />
 <img width="800" height="800" alt="2B9F5931090DEB9290A1C4EE04B50ADB" src="https://github.com/user-attachments/assets/ca6268ac-8a2f-4da8-a508-91d90847652d" />
+Firmware is also available
